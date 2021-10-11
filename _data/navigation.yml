@@ -2,7 +2,7 @@
 main:
   - title: "소개"
     url: /about/
-  - title: "메뉴소개"
+  - title: "메뉴"
     url: /categories/
   - title: "tag"
     url: /tags/

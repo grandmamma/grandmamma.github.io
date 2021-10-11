@@ -1,6 +1,6 @@
 ---
 permalink: /categories/
-title: "메뉴소개"
+title: "메뉴"
 layout: categories
 author_profile: true
 ---
