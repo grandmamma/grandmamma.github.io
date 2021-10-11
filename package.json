@@ -12,12 +12,12 @@
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "grandmamma",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
   },
-  "homepage": "https://moregorenine.github.io",
+  "homepage": "https://grandmamma.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },

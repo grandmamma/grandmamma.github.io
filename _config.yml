@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Spring Rain"
+title                    : "할매밥줘"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "moregorenine"
-description              : "we wait for spring rain."
-url                      : "https://moregorenine.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "grandmamma"
+description              : "자식에게 주는 마음으로 음식에 정성을 담습니다."
+url                      : "https://grandmamma.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -55,14 +55,14 @@ atom_feed:
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : MQSWJHR9JI # YOUR_APPLICATION_ID
-  index_name             : moregorenine.github.io # YOUR_INDEX_NAME
-  search_only_api_key    : 02ce44cbbb94633e3a3ef75d651e55a7 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : 009143500785735716579:kqder-1mgp8 # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+#algolia:
+#  application_id         : MQSWJHR9JI # YOUR_APPLICATION_ID
+#  index_name             : grandmamma.github.io # YOUR_INDEX_NAME
+#  search_only_api_key    : 02ce44cbbb94633e3a3ef75d651e55a7 # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by             : # true (default), false
+#google:
+#  search_engine_id       : 009143500785735716579:kqder-1mgp8 # YOUR_SEARCH_ENGINE_ID
+#  instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -94,25 +94,25 @@ analytics:
 
 # Site Author
 author:
-  name: "moregorenine"
-  avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "we wait for spring rain."
+  name: "grandmamma"
+  avatar: "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "자식에게 주는 마음으로 음식에 정성을 담습니다."
   location: "Republic of Korea"
-#  email: "moregorenine@gmail.com"
-  home: "https://moregorenine.github.io" # null (default), "absolute or relative url to link to author home"
+#  email: "kgrandma1956@gmail.com"
+  home: "https://grandmamma.github.io" # null (default), "absolute or relative url to link to author home"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:w4springrain@email.com
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/moregorenine"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/w4springrain"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/w4springrain"
+      url: mailto:kgrandma1956@gmail.com
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/grandmamma"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/w4springrain"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/w4springrain"
       #    - label: "Website"
       #      icon: "fas fa-fw fa-link"
       #      url: "http://w4springrain.cafe24.com"
@@ -125,16 +125,16 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:w4springrain@email.com
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/moregorenine"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/w4springrain"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/moregorenine"
+      url: mailto:kgrandma1956@gmail.com
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/grandmamma"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/w4springrain"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/grandmamma"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #       url: "https://twitter.com/w4springrain"
@@ -143,7 +143,7 @@ footer:
 #      # url:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
-#       url: "https://github.com/moregorenine"
+#       url: "https://github.com/grandmamma"
 #    - label: "GitLab"
 #      icon: "fab fa-fw fa-gitlab"
 #      # url:
