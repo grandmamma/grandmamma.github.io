@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "about"
+  - title: "소개"
     url: /about/
-  - title: "category"
+  - title: "메뉴소개"
     url: /categories/
   - title: "tag"
     url: /tags/
